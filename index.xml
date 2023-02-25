@@ -1,0 +1,38 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<Professions>
+
+<Profession type="IT">
+<P_name>Programmer</P_name>
+<Salary_M>₱ 43,371</Salary_M>
+<Requirements>Graduate any field of IT</Requirements>
+<Work_Description>Computer programmers design, develop and test software and ensure software adheres to best practices in performance, reliability and security.</Work_Description>
+</Profession>
+
+<Profession type="Teaching">
+<P_name>Teacher</P_name>
+<Salary_M>₱25,000 to ₱28,000</Salary_M>
+<Requirements>Earning your bachelor's degree, Completing student teaching, Passing at least one competency exam and Obtaining clearances such as background checks or child abuse clearances.</Requirements>
+<Work_Description>Develops, plans, and implements curriculum, lesson plans, and educational programs for student audiences within areas of expertise.</Work_Description>
+</Profession>
+
+<Profession type="Medicine">
+<P_name>Doctor</P_name>
+<Salary_M>₱73,000 to ₱83,000</Salary_M>
+<Requirements>Earn a four-year bachelor's degree, attend four years of medical school, and complete a three- to seven-year residency program.</Requirements>
+<Work_Description>Responsible for all sides of care of a patient.</Work_Description>
+</Profession>
+
+<Profession type="Law">
+<P_name>Lawyer</P_name>
+<Salary_M>₱50,000 to ₱60,000</Salary_M>
+<Requirements>Bachelor's Degree, Law School, Law Internship, The Bar Examination, Preliminary Requirements, Skills and Attitudes and Good Moral Character.</Requirements>
+<Work_Description>Advise and represent clients in courts, before government agencies, and in private legal matters.</Work_Description>
+</Profession>
+
+<Profession type="Machineries">
+<P_name>Mechanical Engineering</P_name>
+<Salary_M>₱20,000 to ₱28,000.</Salary_M>
+<Requirements>A degree from an ABET-accredited engineering program, A passing score on the Fundamentals of Engineering (FE) exam, Relevant work experience typically at least 4 years and A passing score on the Professional Engineering (PE) exam. </Requirements>
+<Work_Description>Research, Design, Develop, Build, and test mechanical and thermal sensors and devices, including tools, engines, and machines.</Work_Description>
+</Profession>
+</Professions>
