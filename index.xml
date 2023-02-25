@@ -2,37 +2,42 @@
 <Professions>
 
 <Profession type="IT">
-<P_name>Programmer</P_name>
-<Salary_M>₱ 43,371</Salary_M>
+<Profession_name>Programmer</Profession_name>
+<Salary_Month>₱ 43,371</Salary_Month>
 <Requirements>Graduate any field of IT</Requirements>
 <Work_Description>Computer programmers design, develop and test software and ensure software adheres to best practices in performance, reliability and security.</Work_Description>
+<Work_advantage>Access to many freelance opportunities</Work_advantage>
 </Profession>
 
 <Profession type="Teaching">
-<P_name>Teacher</P_name>
-<Salary_M>₱25,000 to ₱28,000</Salary_M>
+<Profession_name>Teacher</Profession_name>
+<Salary_Month>₱25,000 to ₱28,000</Salary_Month>
 <Requirements>Earning your bachelor's degree, Completing student teaching, Passing at least one competency exam and Obtaining clearances such as background checks or child abuse clearances.</Requirements>
 <Work_Description>Develops, plans, and implements curriculum, lesson plans, and educational programs for student audiences within areas of expertise.</Work_Description>
+<Work_advantage>Steady Income</Work_advantage>
 </Profession>
 
 <Profession type="Medicine">
-<P_name>Doctor</P_name>
-<Salary_M>₱73,000 to ₱83,000</Salary_M>
+<Profession_name>Doctor</Profession_name>
+<Salary_Month>₱73,000 to ₱83,000</Salary_Month>
 <Requirements>Earn a four-year bachelor's degree, attend four years of medical school, and complete a three- to seven-year residency program.</Requirements>
 <Work_Description>Responsible for all sides of care of a patient.</Work_Description>
+<Work_advantage>High salaries, High graduate employment rate, Opportunities for travel, Positive impact, Job security, Continual learning, Earn trust and respect, Stimulating work</Work_advantage>
 </Profession>
 
 <Profession type="Law">
-<P_name>Lawyer</P_name>
-<Salary_M>₱50,000 to ₱60,000</Salary_M>
+<Profession_name>Lawyer</Profession_name>
+<Salary_Month>₱50,000 to ₱60,000</Salary_Month>
 <Requirements>Bachelor's Degree, Law School, Law Internship, The Bar Examination, Preliminary Requirements, Skills and Attitudes and Good Moral Character.</Requirements>
 <Work_Description>Advise and represent clients in courts, before government agencies, and in private legal matters.</Work_Description>
+<Work_advantage>You get to help out society, help them fix their problems, and solve their cases.</Work_advantage>
 </Profession>
 
 <Profession type="Machineries">
-<P_name>Mechanical Engineering</P_name>
-<Salary_M>₱20,000 to ₱28,000.</Salary_M>
+<Profession_name>Mechanical Engineering</Profession_name>
+<Salary_Month>₱20,000 to ₱28,000.</Salary_Month>
 <Requirements>A degree from an ABET-accredited engineering program, A passing score on the Fundamentals of Engineering (FE) exam, Relevant work experience typically at least 4 years and A passing score on the Professional Engineering (PE) exam. </Requirements>
 <Work_Description>Research, Design, Develop, Build, and test mechanical and thermal sensors and devices, including tools, engines, and machines.</Work_Description>
+<Work_advantage>Problem-solving, teamwork, advanced technical, academic writing, and decision-making skills</Work_advantage>
 </Profession>
 </Professions>
