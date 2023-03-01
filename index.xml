@@ -1,154 +1,149 @@
-<?xml version= "1.0" encoding="UTF-8"?>
 <Professions>
-    <Profession type="Technology">
-        <Softwaretechjob> 
-            <Software_Techjob id="1">
-                <Profession_name>Programmer</Profession_name>
-                <Salary_Month>₱ 43,371</Salary_Month>
-                <Requirements>Graduate any field of IT</Requirements>
-            </Software_Techjob>
-             <Software_Techjob id="2">
-                <Profession_name>Front End Developer</Profession_name>
-                <Salary_Month>₱57,000 to ₱67,000</Salary_Month>
-                <Requirements>Have a degree in Computer Science or similar field, Be proficient in coding languages such as HTML, CSS, JavaScript, and jQuery, Understand server-side CSS, Be experienced with graphic design applications (e.g., Adobe Illustrator), Understand the principles of SEO.</Requirements>
-            </Software_Techjob>
-            <Software_Techjob id="3">
-                <Profession_name>Back End Developer</Profession_name>
-                <Salary_Month>₱ ₱32,797</Salary_Month>
-                <Requirements>Python, Java, PHP, SQL, Git, HTML, CSS, JavaScript</Requirements>
-            </Software_Techjob>  
-        </Softwaretechjob>
-        <Hardwaretechjob>
-            <Hardware_Techjob id="1">
-                <Profession_name>Computer Hardware Engineer</Profession_name>
-                <Salary_Month>₱19,346</Salary_Month>
-                <Requirements>Bachelor's degree in computer engineering or a related field, such as computer and information technology.</Requirements>
-            </Hardware_Techjob>
-             <Hardware_Techjob id="2">
-                <Profession_name>IT Hardware Staff</Profession_name>
-                <Salary_Month>₱45,000 to ₱55,000</Salary_Month>
-                <Requirements>Bachelor's degree in IT.</Requirements>
-            </Hardware_Techjob>
-        </Hardwaretechjob> 
-    </Profession>
-
-    <Profession type="Military">
-        <ArmedForces>
-            <ArmedForces_Job id="1">
-                <Profession_name>Air Force Pilot</Profession_name>
-                <Salary_Month>₱38,844 to 67,499</Salary_Month>
-                <Requirements>Must have a Baccalaureate Degree from any government-recognized institution. Must have a height of at least 152.4 cm (5' 0”) for both male and female. Not less than 21 y/o or not a day older than 29 y/o upon admission for training (born from 01 August 1987 to 01 August 1995)</Requirements>
-            </ArmedForces_Job>
-            <ArmedForces_Job id="2">
-                <Profession_name>Navy Flight Support</Profession_name>
-                <Salary_Month>₱42,000</Salary_Month>
-                <Requirements>At least 18 years old but not more than 32 years upon appointment as Candidate Sailor, Must be a natural-born Filipino citizen and of good moral character, Unmarried with no child support, Height of at least 5 feet for both Male and Female, Must not have any pending civil/criminal case.</Requirements>
-            </ArmedForces_Job>
-            <ArmedForces_Job id="3">
-                <Profession_name>Marine Corps Military Police</Profession_name>
-                <Salary_Month>₱25,637</Salary_Month>
-                <Requirements>Not less than 18 years old but not a day older than 26 years old upon appointment as Sailor Candidate. Unmarried and with no child to support. Completed the K-12 /at least 72 units in college (preferably technical courses) / TESDA NCII for old curriculum high school graduate.</Requirements>
-            </ArmedForces_Job>
-            <ArmedForces_Job id="4">
-                <Profession_name>Coast Guard Boatswain Mate</Profession_name>
-                <Salary_Month>less than 30,000 PHP</Salary_Month>
-                <Requirements>Natural Born Citizen, Good Moral Character, Single, 18 - 26 years old for NON-OFFICER, 21 - 26 years old for OFFICER, 5'0 for both Male and Female applicants, Physically and Mentally Fit for Training, At least 72 Units in College for Non-Officer.</Requirements>
-            </ArmedForces_Job>
-            <ArmedForces_Job id="5">
-                <Profession_name>Navy Operations Specialists</Profession_name>
-                <Salary_Month>₱32,000 to ₱42,000</Salary_Month>
-                <Requirements>Natural-born Filipino Citizen, Baccalaureate Degree holder (preferably technical courses), At least 20 years old but not a day older than 25 years old on the date of admission, Height of not less than 152.4 centimeters or 5, Single and never been married, never borne or sired a child, Of good moral character.</Requirements>
-            </ArmedForces_Job>
-        </ArmedForces>
-    </Profession>
-
-    <Profession type="Medicine">
-        <MedicalField>
-            <MedicalField_Job id="1">
-                <Profession_name>Anesthesiologist </Profession_name>
-                <Salary_Month>₱145,000</Salary_Month>
-                <Requirements>Complete a four-year bachelors' degree, a four-year medical degree, and four years of residency.</Requirements>
-             </MedicalField_Job>
-             <MedicalField_Job id="2">
-                <Profession_name>Orthodontist </Profession_name>
-                <Salary_Month>₱129,000</Salary_Month>
-                <Requirements>Obtain an undergraduate degree, Pass the Dental Admission Test to be able to apply for dental school, Complete dental school and residency, Pass the National Board Dental Examination, Obtain a license to practice orthodontics as a specialty, which may require a special state exam.</Requirements>
-             </MedicalField_Job>
-             <MedicalField_Job id="3">
-                <Profession_name>Oral Surgeon </Profession_name>
-                <Salary_Month>₱175,680</Salary_Month>
-                <Requirements>Two to four years undergraduate study (BS, BA, or equivalent degrees), Four years dental study (DMD, BDent, DDS or BDS), Four to six years residency training (six years includes two additional years for acquiring a medical degree).</Requirements>
-             </MedicalField_Job>
-              <MedicalField_Job id="4">
-                <Profession_name>Dentist </Profession_name>
-                <Salary_Month>₱36,000 to ₱42,000</Salary_Month>
-                <Requirements>Good judgment. Exercising good judgment means exhibiting humility, Organization, Critical thinking skills, Professionalism, Negotiation skills, Networking skills, Manual dexterity, Maintain continuing education requirements.</Requirements>
-             </MedicalField_Job>
-              <MedicalField_Job id="5">
-                <Profession_name>Veterinarian </Profession_name>
-                <Salary_Month>₱24,100 to ₱83,400</Salary_Month>
-                <Requirements>English at Home or First Additional level: 60-69%, Mathematics: 60-69%, Mathematics: 60-69%</Requirements>
-             </MedicalField_Job>
-        </MedicalField>
-    </Profession>
-
-    <Profession type="Legislation">
-        <Law>
-            <Law_Job id="1">
-                <Profession_name>Chief Legal Officer</Profession_name>
-                <Salary_Month>₱51,326</Salary_Month>
-                <Requirements>strong initiative, as well as excellent management and leadership skills and strong business acumen.</Requirements>
-             </Law_Job>
-             <Law_Job id="2">
-                <Profession_name>Mergers and Acquisitions Attorney</Profession_name>
-                <Salary_Month>₱50,000 to ₱60,000</Salary_Month>
-                <Requirements>A bachelor's degree in accounting, finance, or a related field coupled with several years of experience in investment banking.</Requirements>
-             </Law_Job>
-             <Law_Job id="3">
-                <Profession_name>Patent Counsel</Profession_name>
-                <Salary_Month>₱50,000 to ₱60,000</Salary_Month>
-                <Requirements>Earn a science or engineering degree, Take the LSAT, Attend law school, Pass the state bar exam, Pass patent bar and register with USPTO, Consider additional specialized education.</Requirements>
-             </Law_Job>
-              <Law_Job id="4">
-                <Profession_name>Principal Investigator</Profession_name>
-                <Salary_Month>₱386,964</Salary_Month>
-                <Requirements>In order to be certified as a PI, a researcher must confirm that he/she will comply with all regulatory compliance directives; that all information submitted within the proposal is true, complete, and accurate to the best of his/her knowledge; that any false, fictitious, or fraudulent statements or claims may subject.</Requirements>
-             </Law_Job>
-                <Law_Job id="5">
-                <Profession_name>General Counsel</Profession_name>
-                <Salary_Month> ₱65,000 to ₱75,000</Salary_Month>
-                <Requirements>4+ years of practice with an established law firm.</Requirements>
-             </Law_Job>
-        </Law>
-    </Profession>
-
-    <Profession type="Engineer">
-        <Engineering>
-            <Engineering_Job id="1">
-                <Profession_name>Quality Control &amp; Turnover Engineer</Profession_name>
-                <Salary_Month>₱31,000 to ₱41,000</Salary_Month>
-                <Requirements>Bachelor's degree in industrial, mechanical, or quality engineering.</Requirements>
-            </Engineering_Job>
-            <Engineering_Job id="2">
-                <Profession_name>Sr Equipment Engineer</Profession_name>
-                <Salary_Month>₱53,900</Salary_Month>
-                <Requirements>Strong equipment development background (Mechanical, Electrical, Software), Proven ability to work hands-on in a fast-paced environment, demonstrated production engineering support, Working knowledge of PLC and HMI code, Working knowledge of machine vision for alignment &amp; inspection.</Requirements>
-            </Engineering_Job>
-             <Engineering_Job id="3">
-                <Profession_name>Shift Engineer</Profession_name>
-                <Salary_Month>₱47,900</Salary_Month>
-                <Requirements>Must be a licensed Electrical or Mechanical Engineer, With 3-5 years experience in preventive maintenance and/or facilities management in residential or commercial properties.</Requirements>
-            </Engineering_Job>
-             <Engineering_Job id="4">
-                <Profession_name>Duty Engineer</Profession_name>
-                <Salary_Month>₱33,000 to ₱43,000</Salary_Month>
-                <Requirements>Degree in mechanical engineering with previous experiences in a similar role and a proven knowledge in the operation and maintenance of the equipment.</Requirements>
-            </Engineering_Job>
-            <Engineering_Job id="5">
-                <Profession_name>Electrical Engineer</Profession_name>
-                <Salary_Month>₱56,000</Salary_Month>
-                <Requirements>Bachelor's degree in electrical engineering, electronics engineering, or a related engineering field.</Requirements>
-            </Engineering_Job>
-        </Engineering>
-    </Profession>
+	<Profession type="Technology">
+		<Softwaretechjob>
+			<Software_Techjob id="1">
+				<Profession_name>Programmer</Profession_name>
+				<Salary_Month>₱ 43,371</Salary_Month>
+				<Requirements>Graduate any field of IT</Requirements>
+			</Software_Techjob>
+			<Software_Techjob id="2">
+				<Profession_name>Front End Developer</Profession_name>
+				<Salary_Month>₱57,000 to ₱67,000</Salary_Month>
+				<Requirements>Have a degree in Computer Science or similar field, Be proficient in coding languages such as HTML, CSS, JavaScript, and jQuery, Understand server-side CSS, Be experienced with graphic design applications (e.g., Adobe Illustrator), Understand the principles of SEO.</Requirements>
+			</Software_Techjob>
+			<Software_Techjob id="3">
+				<Profession_name>Back End Developer</Profession_name>
+				<Salary_Month>₱ ₱32,797</Salary_Month>
+				<Requirements>Python, Java, PHP, SQL, Git, HTML, CSS, JavaScript</Requirements>
+			</Software_Techjob>
+		</Softwaretechjob>
+		<Hardwaretechjob>
+			<Hardware_Techjob id="1">
+				<Profession_name>Computer Hardware Engineer</Profession_name>
+				<Salary_Month>₱19,346</Salary_Month>
+				<Requirements>Bachelor's degree in computer engineering or a related field, such as computer and information technology.</Requirements>
+			</Hardware_Techjob>
+			<Hardware_Techjob id="2">
+				<Profession_name>IT Hardware Staff</Profession_name>
+				<Salary_Month>₱45,000 to ₱55,000</Salary_Month>
+				<Requirements>Bachelor's degree in IT.</Requirements>
+			</Hardware_Techjob>
+		</Hardwaretechjob>
+	</Profession>
+	<Profession type="Military">
+		<ArmedForces>
+			<ArmedForces_Job id="1">
+				<Profession_name>Air Force Pilot</Profession_name>
+				<Salary_Month>₱38,844 to 67,499</Salary_Month>
+				<Requirements>Must have a Baccalaureate Degree from any government-recognized institution. Must have a height of at least 152.4 cm (5' 0”) for both male and female. Not less than 21 y/o or not a day older than 29 y/o upon admission for training (born from 01 August 1987 to 01 August 1995)</Requirements>
+			</ArmedForces_Job>
+			<ArmedForces_Job id="2">
+				<Profession_name>Navy Flight Support</Profession_name>
+				<Salary_Month>₱42,000</Salary_Month>
+				<Requirements>At least 18 years old but not more than 32 years upon appointment as Candidate Sailor, Must be a natural-born Filipino citizen and of good moral character, Unmarried with no child support, Height of at least 5 feet for both Male and Female, Must not have any pending civil/criminal case.</Requirements>
+			</ArmedForces_Job>
+			<ArmedForces_Job id="3">
+				<Profession_name>Marine Corps Military Police</Profession_name>
+				<Salary_Month>₱25,637</Salary_Month>
+				<Requirements>Not less than 18 years old but not a day older than 26 years old upon appointment as Sailor Candidate. Unmarried and with no child to support. Completed the K-12 /at least 72 units in college (preferably technical courses) / TESDA NCII for old curriculum high school graduate.</Requirements>
+			</ArmedForces_Job>
+			<ArmedForces_Job id="4">
+				<Profession_name>Coast Guard Boatswain Mate</Profession_name>
+				<Salary_Month>less than 30,000 PHP</Salary_Month>
+				<Requirements>Natural Born Citizen, Good Moral Character, Single, 18 - 26 years old for NON-OFFICER, 21 - 26 years old for OFFICER, 5'0 for both Male and Female applicants, Physically and Mentally Fit for Training, At least 72 Units in College for Non-Officer.</Requirements>
+			</ArmedForces_Job>
+			<ArmedForces_Job id="5">
+				<Profession_name>Navy Operations Specialists</Profession_name>
+				<Salary_Month>₱32,000 to ₱42,000</Salary_Month>
+				<Requirements>Natural-born Filipino Citizen, Baccalaureate Degree holder (preferably technical courses), At least 20 years old but not a day older than 25 years old on the date of admission, Height of not less than 152.4 centimeters or 5, Single and never been married, never borne or sired a child, Of good moral character.</Requirements>
+			</ArmedForces_Job>
+		</ArmedForces>
+	</Profession>
+	<Profession type="Medicine">
+		<MedicalField>
+			<MedicalField_Job id="1">
+				<Profession_name>Anesthesiologist </Profession_name>
+				<Salary_Month>₱145,000</Salary_Month>
+				<Requirements>Complete a four-year bachelors' degree, a four-year medical degree, and four years of residency.</Requirements>
+			</MedicalField_Job>
+			<MedicalField_Job id="2">
+				<Profession_name>Orthodontist </Profession_name>
+				<Salary_Month>₱129,000</Salary_Month>
+				<Requirements>Obtain an undergraduate degree, Pass the Dental Admission Test to be able to apply for dental school, Complete dental school and residency, Pass the National Board Dental Examination, Obtain a license to practice orthodontics as a specialty, which may require a special state exam.</Requirements>
+			</MedicalField_Job>
+			<MedicalField_Job id="3">
+				<Profession_name>Oral Surgeon </Profession_name>
+				<Salary_Month>₱175,680</Salary_Month>
+				<Requirements>Two to four years undergraduate study (BS, BA, or equivalent degrees), Four years dental study (DMD, BDent, DDS or BDS), Four to six years residency training (six years includes two additional years for acquiring a medical degree).</Requirements>
+			</MedicalField_Job>
+			<MedicalField_Job id="4">
+				<Profession_name>Dentist </Profession_name>
+				<Salary_Month>₱36,000 to ₱42,000</Salary_Month>
+				<Requirements>Good judgment. Exercising good judgment means exhibiting humility, Organization, Critical thinking skills, Professionalism, Negotiation skills, Networking skills, Manual dexterity, Maintain continuing education requirements.</Requirements>
+			</MedicalField_Job>
+			<MedicalField_Job id="5">
+				<Profession_name>Veterinarian </Profession_name>
+				<Salary_Month>₱24,100 to ₱83,400</Salary_Month>
+				<Requirements>English at Home or First Additional level: 60-69%, Mathematics: 60-69%, Mathematics: 60-69%</Requirements>
+			</MedicalField_Job>
+		</MedicalField>
+	</Profession>
+	<Profession type="Legislation">
+		<Law>
+			<Law_Job id="1">
+				<Profession_name>Chief Legal Officer</Profession_name>
+				<Salary_Month>₱51,326</Salary_Month>
+				<Requirements>strong initiative, as well as excellent management and leadership skills and strong business acumen.</Requirements>
+			</Law_Job>
+			<Law_Job id="2">
+				<Profession_name>Mergers and Acquisitions Attorney</Profession_name>
+				<Salary_Month>₱50,000 to ₱60,000</Salary_Month>
+				<Requirements>A bachelor's degree in accounting, finance, or a related field coupled with several years of experience in investment banking.</Requirements>
+			</Law_Job>
+			<Law_Job id="3">
+				<Profession_name>Patent Counsel</Profession_name>
+				<Salary_Month>₱50,000 to ₱60,000</Salary_Month>
+				<Requirements>Earn a science or engineering degree, Take the LSAT, Attend law school, Pass the state bar exam, Pass patent bar and register with USPTO, Consider additional specialized education.</Requirements>
+			</Law_Job>
+			<Law_Job id="4">
+				<Profession_name>Principal Investigator</Profession_name>
+				<Salary_Month>₱386,964</Salary_Month>
+				<Requirements>In order to be certified as a PI, a researcher must confirm that he/she will comply with all regulatory compliance directives; that all information submitted within the proposal is true, complete, and accurate to the best of his/her knowledge; that any false, fictitious, or fraudulent statements or claims may subject.</Requirements>
+			</Law_Job>
+			<Law_Job id="5">
+				<Profession_name>General Counsel</Profession_name>
+				<Salary_Month> ₱65,000 to ₱75,000</Salary_Month>
+				<Requirements>4+ years of practice with an established law firm.</Requirements>
+			</Law_Job>
+		</Law>
+	</Profession>
+	<Profession type="Engineer">
+		<Engineering>
+			<Engineering_Job id="1">
+				<Profession_name>Quality Control &amp; Turnover Engineer</Profession_name>
+				<Salary_Month>₱31,000 to ₱41,000</Salary_Month>
+				<Requirements>Bachelor's degree in industrial, mechanical, or quality engineering.</Requirements>
+			</Engineering_Job>
+			<Engineering_Job id="2">
+				<Profession_name>Sr Equipment Engineer</Profession_name>
+				<Salary_Month>₱53,900</Salary_Month>
+				<Requirements>Strong equipment development background (Mechanical, Electrical, Software), Proven ability to work hands-on in a fast-paced environment, demonstrated production engineering support, Working knowledge of PLC and HMI code, Working knowledge of machine vision for alignment &amp; inspection.</Requirements>
+			</Engineering_Job>
+			<Engineering_Job id="3">
+				<Profession_name>Shift Engineer</Profession_name>
+				<Salary_Month>₱47,900</Salary_Month>
+				<Requirements>Must be a licensed Electrical or Mechanical Engineer, With 3-5 years experience in preventive maintenance and/or facilities management in residential or commercial properties.</Requirements>
+			</Engineering_Job>
+			<Engineering_Job id="4">
+				<Profession_name>Duty Engineer</Profession_name>
+				<Salary_Month>₱33,000 to ₱43,000</Salary_Month>
+				<Requirements>Degree in mechanical engineering with previous experiences in a similar role and a proven knowledge in the operation and maintenance of the equipment.</Requirements>
+			</Engineering_Job>
+			<Engineering_Job id="5">
+				<Profession_name>Electrical Engineer</Profession_name>
+				<Salary_Month>₱56,000</Salary_Month>
+				<Requirements>Bachelor's degree in electrical engineering, electronics engineering, or a related engineering field.</Requirements>
+			</Engineering_Job>
+		</Engineering>
+	</Profession>
 </Professions>
